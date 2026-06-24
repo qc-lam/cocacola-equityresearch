@@ -9,3 +9,7 @@ Does the company possess sustainable competitive advantages?; does it demonstrat
 ## Skills Demonstrated:
 
 ## Deliverables:
+
+
+## notes:
+All financials data is in USD thousands.
